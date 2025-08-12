@@ -85,7 +85,7 @@
   <!-- Home / cards -->
   <section id="home-page">
     <div class="card" onclick="showMonster('kong1')">
-      <img src="file:///H:/EA%20FC%202025/kong_jovem2.png" alt="Kong 1ª temporada" />
+      <img src="kong_jovem2.png" alt="Kong 1ª temporada" />
       <div class="card-content">
         <h3>Kong (1ª Temporada)</h3>
         <p>Filhote em crescimento que jurou ser rei — curioso, ágil e feroz quando provocado.</p>
@@ -138,7 +138,7 @@
   <!-- Kong 1ª temporada -->
   <section id="monster-kong1" class="monster-page" style="display:none;">
     <h2>King Kong (1ª Temporada)</h2>
-    <img src="file:///H:/EA%20FC%202025/kong_jovem.png.png" alt="Kong 1ª temporada" />
+    <img src="kong_jovem.png.png" alt="Kong 1ª temporada" />
     <h3>Ficha</h3>
     <p><strong>Nome:</strong> King Kong<br/>
        <strong>Idade:</strong> 3 anos<br/>
