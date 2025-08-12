@@ -257,7 +257,7 @@
 
 </main>
 
-<footer>© 2025 Série Ilha da Caveira - Criado por Você</footer>
+<footer>© 2025 Série A Oitava Maravilha - Criado por Eduardo Pelicci</footer>
 
 <script>
   function showHome() {
